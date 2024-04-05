@@ -1,4 +1,6 @@
 package Dao.Impl;
 
-public class AnnouncementDaoImpl {
+import Dao.AnnouncementDao;
+
+public class AnnouncementDaoImpl  implements AnnouncementDao {
 }

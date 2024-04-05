@@ -1,4 +1,6 @@
 package Dao.Impl;
 
-public class UserDaoImpl {
+import Dao.UserDao;
+
+public class UserDaoImpl implements UserDao {
 }
